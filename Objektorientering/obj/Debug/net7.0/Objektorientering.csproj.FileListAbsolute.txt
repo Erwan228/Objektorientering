@@ -1,0 +1,15 @@
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\bin\Debug\net7.0\Objektorientering.exe
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\bin\Debug\net7.0\Objektorientering.deps.json
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\bin\Debug\net7.0\Objektorientering.runtimeconfig.json
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\bin\Debug\net7.0\Objektorientering.dll
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\bin\Debug\net7.0\Objektorientering.pdb
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\obj\Debug\net7.0\Objektorientering.csproj.AssemblyReference.cache
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\obj\Debug\net7.0\Objektorientering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\obj\Debug\net7.0\Objektorientering.AssemblyInfoInputs.cache
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\obj\Debug\net7.0\Objektorientering.AssemblyInfo.cs
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\obj\Debug\net7.0\Objektorientering.csproj.CoreCompileInputs.cache
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\obj\Debug\net7.0\Objektorientering.dll
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\obj\Debug\net7.0\refint\Objektorientering.dll
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\obj\Debug\net7.0\Objektorientering.pdb
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\obj\Debug\net7.0\Objektorientering.genruntimeconfig.cache
+C:\Users\erwan\Documents\GitHub\Objektorientering\Objektorientering\obj\Debug\net7.0\ref\Objektorientering.dll
