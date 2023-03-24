@@ -4,7 +4,7 @@
     {
         public class Person
         {
-            public string Name { get; set; }
+            public string Name { get; private /*(Med denne kan ikke person.Name funke)*/ set; }
         }
 
 
@@ -12,6 +12,7 @@
         {
             var person = new Person();
             var name = person.Name;
+            //person.Name = "Dick";
 
             Console.WriteLine(person.Name);
         }
